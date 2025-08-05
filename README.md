@@ -23,7 +23,7 @@ This repository contains a collection of interactive dashboards and data visuali
 
 ### ✅ Available Projects
 
-- 📱 ` Mobile Phone Sales Dashboard` *(https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)*
+- 📱  [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
 - 🏥 `Hospital Performance Report` *(coming soon)*
 - 🎓 `Student Performance Analysis` *(coming soon)*
 
