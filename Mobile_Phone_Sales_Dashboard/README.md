@@ -13,9 +13,9 @@ An interactive Power BI dashboard analyzing mobile phone sales performance acros
 
 | File / Folder | Description |
 |---------------|-------------|
-| `dashboard.pbix` | Main Power BI file with all visuals and imported data |
-| `data/Mobile_Sales_Data.xlsx` | Source data used in the dashboard |
-| `images/dashboard_screenshot.png` | Preview image of the final dashboard |
+| `Mobile_Phone_Sales_Dashboard.pbix` | Main Power BI file with all visuals and imported data |
+| `Data/Mobile Sales Data.xlsx` | Source data used in the dashboard |
+| `Dashboard_Images/Dashboard_Screenshot.png` | Preview image of the final dashboard |
 
 ## 📎 Notes
 
@@ -24,4 +24,4 @@ An interactive Power BI dashboard analyzing mobile phone sales performance acros
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](./images/dashboard_screenshot.png)
+![Dashboard Screenshot](./Dashboard_Images/Dashboard_Screenshot.png)
