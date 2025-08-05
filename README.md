@@ -17,13 +17,13 @@ This repository contains a collection of interactive dashboards and data visuali
 
 > 👇 Below are the Power BI dashboards published so far. Each folder contains:
 > - The `.pbix` report file
-> - Source dataset (if allowed)
+> - Source dataset 
 > - Screenshots of the dashboard
 > - A `README.md` explaining the project
 
 ### ✅ Available Projects
 
-- 📈 `Sales Dashboard` *(coming soon)*
+- 📱 ` Mobile Phone Sales Dashboard` *(https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)*
 - 🏥 `Hospital Performance Report` *(coming soon)*
 - 🎓 `Student Performance Analysis` *(coming soon)*
 
