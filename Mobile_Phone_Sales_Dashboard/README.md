@@ -1,18 +1,27 @@
 # 📱 Mobile Phone Sales Dashboard
 
-An interactive Power BI report analyzing mobile phone sales trends across regions and product categories.
+An interactive Power BI dashboard analyzing mobile phone sales performance across different regions and product categories.
 
-## 📌 Features
+## 📊 Key Features
 
-- 📊 Total Sales by Brand and Model
-- 🌍 Sales Distribution by Region
-- 📅 Monthly & Quarterly Sales Trends
-- 🧭 Interactive filtering by Date, Brand, and Store
+- 📅 Monthly and Quarterly Sales Trends
+- 📈 Total Sales by Brand and Model
+- 🌍 Sales Breakdown by Region
+- 🧮 Filters for Date, Region, Brand, and Store
 
-## 📂 Files
+## 📁 Project Structure
 
-- `dashboard.pbix` – Power BI report file
-- `data/` – CSV or Excel source data
-- `images/` – Dashboard screenshot(s)
+| File / Folder | Description |
+|---------------|-------------|
+| `dashboard.pbix` | Main Power BI file with all visuals and imported data |
+| `data/Mobile_Sales_Data.xlsx` | Source data used in the dashboard |
+| `images/dashboard_screenshot.png` | Preview image of the final dashboard |
 
-> 📌 Note: Open `.pbix` in Power BI Desktop with data load permissions enabled.
+## 📎 Notes
+
+- The `.pbix` file includes imported data, so it opens without needing the original Excel source.
+- No credentials or external connections required.
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](./images/dashboard_screenshot.png)
