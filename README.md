@@ -44,3 +44,15 @@ Feel free to explore the dashboards, suggest improvements, or reach out for coll
 
 ---
 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/> 
+<img src="https://img.icons8.com/color/48/000000/canva.png" width="40" alt="Canva"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira"/>
+<img src="https://img.icons8.com/ios-filled/50/notion.png" width="40" alt="Notion"/>
+<img src="https://img.icons8.com/ios-filled/50/confluence.png" width="40" alt="Confluence"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" alt="Tableau"/>
+
