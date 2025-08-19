@@ -42,14 +42,13 @@ The workshop focused on **AI-powered dashboard creation** under 30 minutes.
 
 ---
 
-## 📷 Dashboard Preview
-![Amazon Store Sales Dashboard](Amazon%20Store%20Sales%20Dashboard/Dashboard%20Image/Amazon%20Store%20Sales%20Dashboard.png)
-
----
-
 ## 📂 Files in this Folder
 - `Amazon Store Sales Dashboard.png` → Dashboard screenshot  
 - `Raw Data` → Dashboard Data  
+---
+
+## 📷 Dashboard Preview
+![Amazon Store Sales Dashboard](/Dashboard%20Image/Amazon%20Store%20Sales%20Dashboard.png)
 
 ---
 
