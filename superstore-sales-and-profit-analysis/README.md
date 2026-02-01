@@ -120,12 +120,12 @@ It is designed to reflect **real-world analytical reasoning**, not just dashboar
 ---
 
 ## Dashboard Visual
-![Sales and Profit Overview](superstore-sales-and-profit-analysis/Dashboard-Images
-/Sample Superstore_page-0001.jpg)
-![Sales & Profit Analysis](superstore-sales-and-profit-analysis/Dashboard-Images
-/Sample Superstore_page-0002.jpg)
-![State-wise Profit and Sales Analysis](superstore-sales-and-profit-analysis/Dashboard-Images
-/Sample Superstore_page-0003.jpg)
+
+![Sales and Profit Overview](Dashboard-Images/Sample%20Superstore_page-0001.jpg)
+
+![Sales & Profit Analysis](Dashboard-Images/Sample%20Superstore_page-0002.jpg)
+
+![State-wise Profit and Sales Analysis](Dashboard-Images/Sample%20Superstore_page-0003.jpg)
 
 
 
