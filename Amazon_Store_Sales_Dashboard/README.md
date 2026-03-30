@@ -1,5 +1,5 @@
 
-# 📊 Amazon Store Sales Dashboard
+# 📊 Retail Business Intelligence: Sales & Profitability Audit
 
 This project contains an **interactive Power BI dashboard** built for analyzing **Amazon Store Sales**.  
 The dashboard provides insights into sales performance, profit trends, customer segments, and regional distribution.  
