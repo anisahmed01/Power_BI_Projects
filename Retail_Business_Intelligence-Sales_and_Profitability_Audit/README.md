@@ -1,4 +1,4 @@
-# Superstore Sales & Profitability Analysis (Power BI)
+# Retail Business Intelligence: Sales & Profitability Audit (Power BI)
 
 ## 📌 Project Overview
 This project analyzes the **Sample Superstore (USA)** dataset to evaluate **sales performance, profitability, discount impact, and regional inefficiencies** using **Power BI**.
